@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LeetCode75.Code
 {
-    internal class Running_Sum_of_1d_Array_1480
+    internal class D1_1_Running_Sum_of_1d_Array_No1480
     {
         public int[] RunningSum(int[] nums)
         {
